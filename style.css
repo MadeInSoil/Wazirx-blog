@@ -1,0 +1,72 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set font and background color */
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f8fc;
+  }
+  
+  .container {
+    margin: 30px auto;
+    max-width: 1200px;
+    padding: 0 15px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .navbar-brand:hover {
+    color: #1a1a1a;
+  }
+  
+  .nav {
+    margin-left: auto;
+  }
+  
+  .nav-item {
+    display: inline-block;
+    margin-right: 15px;
+  }
+  
+  .nav-link {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .nav-link:hover {
+    color: #1a1a1a;
+  }
+  
+  .col {
+    margin-bottom: 30px;
+  }
+  
+  /* Additional styles specific to WazirX website */
+  /* Customize the styles to match WazirX website */
+  
+  
